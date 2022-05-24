@@ -100,7 +100,7 @@ tours in total) in the database
 2.2.4 Once registered as members, they should be able to login to retrieve their own
 records for updates or make changes.
 
-###3. **System Specification**
+### 3. **System Specification**
 
 3.1 Web Application Design and Development
 
