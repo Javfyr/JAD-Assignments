@@ -18,7 +18,8 @@
 		%>
       <input type="text" name="loginid" placeholder="Username" required="required" />
         <input type="password" name="password" placeholder="Password" required="required" />
-        <button type="submit" class="btn btn-primary btn-block btn-large">Login</button>
+        <button type="submit" class="btn btn-primary btn-block btn-large">Login</button><br>
+        <h5><a href="register.jsp" style="color: white">Register</a></h5>
     </form>
 </div>
 </body>
