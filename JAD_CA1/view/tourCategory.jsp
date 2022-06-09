@@ -47,7 +47,7 @@
 	try{
 		Class.forName("com.mysql.jdbc.Driver");
 	
-		String connURL = "jdbc:mysql://localhost:3306/jaddatabase?user=root&password=San313916pang&serverTimezone=UTC";
+		String connURL = "jdbc:mysql://localhost:3306/jaddatabase?user=root&password=&serverTimezone=UTC";
 		
 		Connection conn = DriverManager.getConnection(connURL);
 		
